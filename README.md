@@ -51,7 +51,6 @@
 [![wheeltec_ros2](https://github-readme-stats.vercel.app/api/pin/?username=JiaXinTang-xiang&repo=wheeltec_ros2&theme=dracula)](https://github.com/JiaXinTang-xiang/wheeltec_ros2)
 [![2024-compative-project](https://github-readme-stats.vercel.app/api/pin/?username=JiaXinTang-xiang&repo=2024-compative-project&theme=dracula)](https://github.com/JiaXinTang-xiang/2024-compative-project) -->
 
----
 
 ### 🔥 Contribution Streak
 
@@ -81,6 +80,7 @@
 Powered by <a href="https://github.com/anuraghazra/github-readme-stats">github-readme-stats</a> | <a href="https://github.com/ashutosh00710/github-readme-activity-graph">github-readme-activity-graph</a>
 </p>
 
+---
 
 <img src="https://komarev.com/ghpvc/?username=JiaXinTang-xiang&color=blueviolet&style=flat-square" alt="Profile Views" />
 
