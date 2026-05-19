@@ -1,22 +1,14 @@
-<div align="center">
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=435&lines=%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%98%AF+JiaXinTang-xiang+%F0%9F%91%8B;Welcome+to+my+GitHub+%F0%9F%9A%80" alt="Typing SVG" />
-
-</div>
 
 ---
 
 ### 🧑‍💻 About Me
 
-- 🔭 专注于 **后端开发 & 系统编程**
-- 🌱 持续学习中，热爱开源
-- ⚡ 兴趣方向：高性能计算 / 分布式系统 / 工具链
+欢迎来我的主页 [jiaxin404.top](https://jiaxin404.top/) ~
 
 ---
 
 ### 🛠️ Tech Stack
-
-<div align="center">
 
 #### 💻 Coding Language
 
@@ -61,47 +53,24 @@
 ![Research](https://img.shields.io/badge/CS-Research-blue?style=for-the-badge&logo=googlescholar&logoColor=white)
 ![Papers](https://img.shields.io/badge/Papers-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)
 
-</div>
-
 ---
 
 ### 📊 GitHub Stats
-
-<div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JiaXinTang-xiang&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JiaXinTang-xiang&layout=compact&theme=radical&langs_count=8" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=JiaXinTang-xiang&theme=radical" alt="GitHub Streak" />
 
-</div>
-
----
-
-### 🐍 Contribution Snake
-
-<div align="center">
-
-![snake gif](https://raw.githubusercontent.com/JiaXinTang-xiang/JiaXinTang-xiang/output/snake.svg)
-
-</div>
-
 ---
 
 ### 📫 Connect With Me
-
-<div align="center">
 
 [![CSDN](https://img.shields.io/badge/CSDN-FC5531?style=for-the-badge&logo=c&logoColor=white)](https://blog.csdn.net/你的ID)
 [![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://你的博客链接)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:你的邮箱)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JiaXinTang-xiang)
 
-</div>
-
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=JiaXinTang-xiang&color=blueviolet&style=flat-square" alt="Profile Views" />
-</div>
-# JiaXinTang-xiang
+<img src="https://komarev.com/ghpvc/?username=JiaXinTang-xiang&color=blueviolet&style=flat-square" alt="Profile Views" />
