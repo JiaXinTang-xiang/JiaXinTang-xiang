@@ -69,12 +69,6 @@
 
 ---
 
-<img src="https://komarev.com/ghpvc/?username=JiaXinTang-xiang&color=blueviolet&style=flat-square" alt="Profile Views" />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,3,6,9,12,15&height=120&section=footer" />
-
----
-
 ### 🐍 Contribution Snake
 
 <p align="center">
@@ -86,3 +80,11 @@
 <p align="center">
 Powered by <a href="https://github.com/anuraghazra/github-readme-stats">github-readme-stats</a> | <a href="https://github.com/ashutosh00710/github-readme-activity-graph">github-readme-activity-graph</a>
 </p>
+
+
+<img src="https://komarev.com/ghpvc/?username=JiaXinTang-xiang&color=blueviolet&style=flat-square" alt="Profile Views" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,3,6,9,12,15&height=120&section=footer" />
+
+---
+
