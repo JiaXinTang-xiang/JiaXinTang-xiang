@@ -53,13 +53,24 @@
 ![Research](https://img.shields.io/badge/CS-Research-blue?style=for-the-badge&logo=googlescholar&logoColor=white)
 ![Papers](https://img.shields.io/badge/Papers-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)
 
-<!-- ---
+---
 
 ### 📊 GitHub Stats
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=JiaXinTang-xiang&theme=radical" alt="GitHub Streak" />
+<div align="center">
 
---- -->
+<!-- GitHub Stats 卡片（总星星、commits、PR等） -->
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=JiaXinTang-xiang&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+<!-- 常用语言 -->
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JiaXinTang-xiang&layout=compact&theme=dracula" />
+
+<!-- 活跃度曲线 -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=JiaXinTang-xiang&theme=dracula" alt="GitHub Activity Graph" />
+
+<!-- 连续提交天数 -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=JiaXinTang-xiang&theme=dracula" alt="GitHub Streak" />
+
+</div>
 
 ### 📫 Connect With Me
 
