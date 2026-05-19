@@ -4,7 +4,7 @@
 
 ### 🧑‍💻 About Me
 
-欢迎来我的主页 [jiaxin404.top](https://jiaxin404.top/) ~
+欢迎来我的[主页](https://jiaxin404.top/) ~
 
 ---
 
@@ -56,9 +56,6 @@
 ---
 
 ### 📊 GitHub Stats
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JiaXinTang-xiang&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JiaXinTang-xiang&layout=compact&theme=radical&langs_count=8" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=JiaXinTang-xiang&theme=radical" alt="GitHub Streak" />
 
