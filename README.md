@@ -12,62 +12,38 @@
 
 #### 💻 Coding Language
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,cpp,c,js,ts,bash" />
 
 #### 📦 Libraries / Frameworks
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+<img src="https://skillicons.dev/icons?i=fastapi,django,react,vue,nodejs,qt" />
 
 #### 🧰 Development Tools
 
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+<img src="https://skillicons.dev/icons?i=vscode,git,docker,githubactions,cmake,postman" />
 
 #### 🌐 Web Browser
 
-![Chrome](https://img.shields.io/badge/Chrome-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)
-![Edge](https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=microsoft-edge&logoColor=white)
+<img src="https://skillicons.dev/icons?i=chrome" />
 
 #### 🖥️ Operating System
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
-#### 📚 Academic
-
-![Research](https://img.shields.io/badge/CS-Research-blue?style=for-the-badge&logo=googlescholar&logoColor=white)
-![Papers](https://img.shields.io/badge/Papers-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)
+<img src="https://skillicons.dev/icons?i=linux,windows" />
 
 ---
 
-### 📊 GitHub Stats
-
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=JiaXinTang-xiang&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JiaXinTang-xiang&layout=compact&theme=dracula" />
+<!-- ### 📊 GitHub Stats -->
+<!-- <img height="150em" src="https://github-readme-stats.vercel.app/api?username=JiaXinTang-xiang&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JiaXinTang-xiang&layout=compact&theme=dracula" /> -->
 
 ---
 
-### 📌 Pinned Projects
+<!-- ### 📌 Pinned Projects
 
 [![Blog](https://github-readme-stats.vercel.app/api/pin/?username=JiaXinTang-xiang&repo=Blog&theme=dracula)](https://github.com/JiaXinTang-xiang/Blog)
 [![JIABlog](https://github-readme-stats.vercel.app/api/pin/?username=JiaXinTang-xiang&repo=JIABlog&theme=dracula)](https://github.com/JiaXinTang-xiang/JIABlog)
 [![wheeltec_ros2](https://github-readme-stats.vercel.app/api/pin/?username=JiaXinTang-xiang&repo=wheeltec_ros2&theme=dracula)](https://github.com/JiaXinTang-xiang/wheeltec_ros2)
-[![2024-compative-project](https://github-readme-stats.vercel.app/api/pin/?username=JiaXinTang-xiang&repo=2024-compative-project&theme=dracula)](https://github.com/JiaXinTang-xiang/2024-compative-project)
+[![2024-compative-project](https://github-readme-stats.vercel.app/api/pin/?username=JiaXinTang-xiang&repo=2024-compative-project&theme=dracula)](https://github.com/JiaXinTang-xiang/2024-compative-project) -->
 
 ---
 
