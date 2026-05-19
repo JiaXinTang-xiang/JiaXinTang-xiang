@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=JiaXinTang-xiang&fontSize=60&fontAlign=50&fontAlignY=35&desc=Welcome%20to%20my%20GitHub&descSize=20&descAlignY=55" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,3,6,9,12,15&height=200&section=header&text=%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%98%AF%20JiaXinTang-xiang%20%F0%9F%91%8B&fontSize=45&fontAlign=50&fontAlignY=35&desc=Welcome%20to%20my%20GitHub%20%F0%9F%9A%80&descSize=18&descAlignY=55" />
 
 ---
 
@@ -7,8 +7,6 @@
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/JiaXinTang-xiang/JiaXinTang-xiang/main/code.gif" width="380" />
 
 欢迎来我的[主页](https://jiaxin404.top/) ~
-
-<br clear="both" />
 
 ---
 
@@ -32,19 +30,14 @@
 <img src="https://skillicons.dev/icons?i=linux,windows" />
 
 ---
-
-### 🏆 GitHub Trophy
-
-<img src="https://github-profile-trophy.vercel.app/?username=JiaXinTang-xiang&theme=dracula&row=1&column=7" />
-
----
+<!-- ---
 
 ### 📊 GitHub Stats
 
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=JiaXinTang-xiang&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JiaXinTang-xiang&layout=compact&theme=dracula" />
 
----
+--- -->
 
 ### 📌 Pinned Projects
 
