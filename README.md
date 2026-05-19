@@ -70,6 +70,14 @@
 
 ---
 
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/JiaXinTang-xiang/JiaXinTang-xiang/output/snake.svg" alt="Snake Animation" />
+</p>
+
+---
+
 <p align="center">
 Powered by <a href="https://github.com/anuraghazra/github-readme-stats">github-readme-stats</a> | <a href="https://github.com/ashutosh00710/github-readme-activity-graph">github-readme-activity-graph</a>
 </p>
