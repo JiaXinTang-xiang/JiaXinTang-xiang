@@ -57,20 +57,26 @@
 
 ### 📊 GitHub Stats
 
-<div align="center">
-
-<!-- GitHub Stats 卡片（总星星、commits、PR等） -->
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=JiaXinTang-xiang&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-<!-- 常用语言 -->
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JiaXinTang-xiang&layout=compact&theme=dracula" />
 
-<!-- 活跃度曲线 -->
+---
+
+### 📌 Pinned Projects
+
+[![Blog](https://github-readme-stats.vercel.app/api/pin/?username=JiaXinTang-xiang&repo=Blog&theme=dracula)](https://github.com/JiaXinTang-xiang/Blog)
+[![JIABlog](https://github-readme-stats.vercel.app/api/pin/?username=JiaXinTang-xiang&repo=JIABlog&theme=dracula)](https://github.com/JiaXinTang-xiang/JIABlog)
+[![wheeltec_ros2](https://github-readme-stats.vercel.app/api/pin/?username=JiaXinTang-xiang&repo=wheeltec_ros2&theme=dracula)](https://github.com/JiaXinTang-xiang/wheeltec_ros2)
+[![2024-compative-project](https://github-readme-stats.vercel.app/api/pin/?username=JiaXinTang-xiang&repo=2024-compative-project&theme=dracula)](https://github.com/JiaXinTang-xiang/2024-compative-project)
+
+---
+
+### 🔥 Contribution Streak
+
+<img height="150em" src="https://github-readme-streak-stats.vercel.app/?user=JiaXinTang-xiang&theme=dracula" alt="GitHub Streak" />
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=JiaXinTang-xiang&theme=dracula" alt="GitHub Activity Graph" />
 
-<!-- 连续提交天数 -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=JiaXinTang-xiang&theme=dracula" alt="GitHub Streak" />
-
-</div>
+---
 
 ### 📫 Connect With Me
 
@@ -80,5 +86,11 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JiaXinTang-xiang)
 
 ---
- 
+
 <img src="https://komarev.com/ghpvc/?username=JiaXinTang-xiang&color=blueviolet&style=flat-square" alt="Profile Views" />
+
+---
+
+<p align="center">
+Powered by <a href="https://github.com/anuraghazra/github-readme-stats">github-readme-stats</a>
+</p>
