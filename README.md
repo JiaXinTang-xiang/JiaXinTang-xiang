@@ -4,7 +4,15 @@
 
 ### 🧑‍💻 About Me
 
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/JiaXinTang-xiang/JiaXinTang-xiang/main/code.gif" width="380" />
+
 欢迎来我的[主页](https://jiaxin404.top/) ~
+
+- 🔭 热爱前端、热爱技术
+- 🌱 喜欢参与开源项目的讨论
+- 📝 在掘金 / B站 分享技术内容
+
+<br clear="both" />
 
 ---
 
@@ -22,9 +30,9 @@
 
 <img src="https://skillicons.dev/icons?i=vscode,git,docker,githubactions,cmake,postman" />
 
-#### 🌐 Web Browser
+<!-- #### 🌐 Web Browser
 
-<img src="https://skillicons.dev/icons?i=chrome" />
+<img src="https://skillicons.dev/icons?i=chrome" /> -->
 
 #### 🖥️ Operating System
 
@@ -44,6 +52,22 @@
 [![JIABlog](https://github-readme-stats.vercel.app/api/pin/?username=JiaXinTang-xiang&repo=JIABlog&theme=dracula)](https://github.com/JiaXinTang-xiang/JIABlog)
 [![wheeltec_ros2](https://github-readme-stats.vercel.app/api/pin/?username=JiaXinTang-xiang&repo=wheeltec_ros2&theme=dracula)](https://github.com/JiaXinTang-xiang/wheeltec_ros2)
 [![2024-compative-project](https://github-readme-stats.vercel.app/api/pin/?username=JiaXinTang-xiang&repo=2024-compative-project&theme=dracula)](https://github.com/JiaXinTang-xiang/2024-compative-project) -->
+
+---
+
+### 📊 GitHub Stats
+
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=JiaXinTang-xiang&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JiaXinTang-xiang&layout=compact&theme=dracula" />
+
+---
+
+### 📌 Pinned Projects
+
+[![Blog](https://github-readme-stats.vercel.app/api/pin/?username=JiaXinTang-xiang&repo=Blog&theme=dracula)](https://github.com/JiaXinTang-xiang/Blog)
+[![JIABlog](https://github-readme-stats.vercel.app/api/pin/?username=JiaXinTang-xiang&repo=JIABlog&theme=dracula)](https://github.com/JiaXinTang-xiang/JIABlog)
+[![wheeltec_ros2](https://github-readme-stats.vercel.app/api/pin/?username=JiaXinTang-xiang&repo=wheeltec_ros2&theme=dracula)](https://github.com/JiaXinTang-xiang/wheeltec_ros2)
+[![2024-compative-project](https://github-readme-stats.vercel.app/api/pin/?username=JiaXinTang-xiang&repo=2024-compative-project&theme=dracula)](https://github.com/JiaXinTang-xiang/2024-compative-project)
 
 ---
 
