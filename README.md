@@ -30,11 +30,10 @@
 <img src="https://skillicons.dev/icons?i=linux,windows" />
 
 ---
----
 
-### 🏆 GitHub Trophy
+<!-- ### 🏆 GitHub Trophy
 
-<img src="https://github-profile-trophy.vercel.app/?username=JiaXinTang-xiang&theme=dracula&row=1&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=JiaXinTang-xiang&theme=dracula&row=1&column=7" /> -->
 
 <!-- ---
 
@@ -72,7 +71,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=JiaXinTang-xiang&color=blueviolet&style=flat-square" alt="Profile Views" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,3,6,9,12,15&height=120&section=footer" />
 
 ---
 
