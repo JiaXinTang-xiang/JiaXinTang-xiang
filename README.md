@@ -38,15 +38,15 @@
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JiaXinTang-xiang&layout=compact&theme=dracula" />
 
 --- -->
-<!-- 
-### 📌 Pinned Projects
+
+<!-- ### 📌 Pinned Projects
 
 [![Blog](https://github-readme-stats.vercel.app/api/pin/?username=JiaXinTang-xiang&repo=Blog&theme=dracula)](https://github.com/JiaXinTang-xiang/Blog)
 [![JIABlog](https://github-readme-stats.vercel.app/api/pin/?username=JiaXinTang-xiang&repo=JIABlog&theme=dracula)](https://github.com/JiaXinTang-xiang/JIABlog)
 [![wheeltec_ros2](https://github-readme-stats.vercel.app/api/pin/?username=JiaXinTang-xiang&repo=wheeltec_ros2&theme=dracula)](https://github.com/JiaXinTang-xiang/wheeltec_ros2)
-[![2024-compative-project](https://github-readme-stats.vercel.app/api/pin/?username=JiaXinTang-xiang&repo=2024-compative-project&theme=dracula)](https://github.com/JiaXinTang-xiang/2024-compative-project)
+[![2024-compative-project](https://github-readme-stats.vercel.app/api/pin/?username=JiaXinTang-xiang&repo=2024-compative-project&theme=dracula)](https://github.com/JiaXinTang-xiang/2024-compative-project) -->
 
---- -->
+---
 
 ### 🔥 Contribution Streak
 
