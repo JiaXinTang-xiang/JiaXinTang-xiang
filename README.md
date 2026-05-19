@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=435&lines=%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%98%AF+JiaXinTang-xiang+%F0%9F%91%8B;Welcome+to+my+GitHub+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=JiaXinTang-xiang&fontSize=60&fontAlign=50&fontAlignY=35&desc=Welcome%20to%20my%20GitHub&descSize=20&descAlignY=55" />
 
 ---
 
@@ -7,10 +7,6 @@
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/JiaXinTang-xiang/JiaXinTang-xiang/main/code.gif" width="380" />
 
 欢迎来我的[主页](https://jiaxin404.top/) ~
-
-- 🔭 热爱前端、热爱技术
-- 🌱 喜欢参与开源项目的讨论
-- 📝 在掘金 / B站 分享技术内容
 
 <br clear="both" />
 
@@ -30,13 +26,16 @@
 
 <img src="https://skillicons.dev/icons?i=vscode,git,docker,githubactions,cmake,postman" />
 
-<!-- #### 🌐 Web Browser
-
-<img src="https://skillicons.dev/icons?i=chrome" /> -->
 
 #### 🖥️ Operating System
 
 <img src="https://skillicons.dev/icons?i=linux,windows" />
+
+---
+
+### 🏆 GitHub Trophy
+
+<img src="https://github-profile-trophy.vercel.app/?username=JiaXinTang-xiang&theme=dracula&row=1&column=7" />
 
 ---
 
@@ -73,6 +72,8 @@
 ---
 
 <img src="https://komarev.com/ghpvc/?username=JiaXinTang-xiang&color=blueviolet&style=flat-square" alt="Profile Views" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=120&section=footer" />
 
 ---
 
