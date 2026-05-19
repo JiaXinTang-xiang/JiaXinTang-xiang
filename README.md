@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,3,6,9,12,15&height=200&section=header&text=%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%98%AF%20JiaXinTang-xiang%20%F0%9F%91%8B&fontSize=45&fontAlign=50&fontAlignY=35&desc=Welcome%20to%20my%20GitHub%20%F0%9F%9A%80&descSize=18&descAlignY=55" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0033CC,0066FF,3399FF,6699FF&height=200&section=header&text=%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%98%AF%20JiaXinTang-xiang%20%F0%9F%91%8B&fontSize=45&fontAlign=50&fontAlignY=35&desc=Welcome%20to%20my%20GitHub%20%F0%9F%9A%80&descSize=18&descAlignY=55" />
 
 ---
 
@@ -84,7 +84,7 @@ Powered by <a href="https://github.com/anuraghazra/github-readme-stats">github-r
 
 <img src="https://komarev.com/ghpvc/?username=JiaXinTang-xiang&color=blueviolet&style=flat-square" alt="Profile Views" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,3,6,9,12,15&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0033CC,0066FF,3399FF,6699FF&height=120&section=footer" />
 
 ---
 
