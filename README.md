@@ -17,7 +17,7 @@
 ---
 
 <p align="center">
-  <img src="./image.png" alt="Profile image" width="480" />
+  <img src="./image.png" alt="Profile image" width="640" />
 </p>
 
 ---
