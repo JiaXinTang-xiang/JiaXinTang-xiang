@@ -1,4 +1,14 @@
+<p align="center">
+  <img src="./image.png" alt="Profile image" width="360" />
+</p>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0033CC,0066FF,3399FF,6699FF&height=200&section=header&text=%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%98%AF%20JiaXinTang-xiang%20%F0%9F%91%8B&fontSize=45&fontAlign=50&fontAlignY=35&desc=Welcome%20to%20my%20GitHub%20%F0%9F%9A%80&descSize=18&descAlignY=55" />
+
+<p align="center">
+  <a href="https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=Mete0r">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=Mete0r" alt="Mete0r" />
+  </a>
+</p>
 
 ---
 
@@ -10,24 +20,12 @@
 
 ---
 
-### 🛠️ Tech Stack
+**Development Tools**
 
-#### 💻 Coding Language
-
-<img src="https://skillicons.dev/icons?i=python,cpp,c,js,ts,bash" />
-
-#### 📦 Libraries / Frameworks
-
-<img src="https://skillicons.dev/icons?i=fastapi,django,react,vue,nodejs,qt" />
-
-#### 🧰 Development Tools
-
-<img src="https://skillicons.dev/icons?i=vscode,git,docker,githubactions,cmake,postman" />
-
-
-#### 🖥️ Operating System
-
-<img src="https://skillicons.dev/icons?i=linux,windows" />
+[![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=FFFFFF)](https://www.python.org/)
+[![C++](https://img.shields.io/badge/cpp-00599C?style=for-the-badge&logo=cplusplus&logoColor=FFFFFF)](https://isocpp.org/)
+[![NodeJS](https://img.shields.io/badge/NodeJS-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=FFFFFF)](https://nodejs.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=FFFFFF)](https://www.typescriptlang.org/)
 
 ---
 
