@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="./image.png" alt="Profile image" width="360" />
-</p>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0033CC,0066FF,3399FF,6699FF&height=200&section=header&text=%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%98%AF%20JiaXinTang-xiang%20%F0%9F%91%8B&fontSize=45&fontAlign=50&fontAlignY=35&desc=Welcome%20to%20my%20GitHub%20%F0%9F%9A%80&descSize=18&descAlignY=55" />
 
 <p align="center">
@@ -20,12 +16,40 @@
 
 ---
 
+<p align="center">
+  <img src="./image.png" alt="Profile image" width="480" />
+</p>
+
+---
+
+**Web Browser**
+
+[![Chrome](https://img.shields.io/badge/Chrome-4285F4?style=for-the-badge&logo=googlechrome&logoColor=FFFFFF)](https://www.google.com/chrome/)
+[![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=firefoxbrowser&logoColor=FFFFFF)](https://www.mozilla.org/firefox/)
+[![Edge](https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=microsoftedge&logoColor=FFFFFF)](https://www.microsoft.com/edge)
+
 **Development Tools**
 
 [![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=FFFFFF)](https://www.python.org/)
 [![C++](https://img.shields.io/badge/cpp-00599C?style=for-the-badge&logo=cplusplus&logoColor=FFFFFF)](https://isocpp.org/)
 [![NodeJS](https://img.shields.io/badge/NodeJS-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=FFFFFF)](https://nodejs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=FFFFFF)](https://www.typescriptlang.org/)
+[![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=FFFFFF)](https://code.visualstudio.com/)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=FFFFFF)](https://git-scm.com/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=FFFFFF)](https://www.docker.com/)
+
+**Libraries / Frameworks**
+
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=FFFFFF)](https://fastapi.tiangolo.com/)
+[![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=FFFFFF)](https://www.djangoproject.com/)
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
+[![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=FFFFFF)](https://vuejs.org/)
+[![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=FFFFFF)](https://www.qt.io/)
+
+**Operating System**
+
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000000)](https://www.linux.org/)
+[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=FFFFFF)](https://www.microsoft.com/windows)
 
 ---
 
