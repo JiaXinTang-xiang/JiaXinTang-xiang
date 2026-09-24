@@ -74,11 +74,6 @@
 [![2024-compative-project](https://github-readme-stats.vercel.app/api/pin/?username=JiaXinTang-xiang&repo=2024-compative-project&theme=dracula)](https://github.com/JiaXinTang-xiang/2024-compative-project) -->
 
 
-### 🔥 Contribution Streak
-
-<img height="150em" src="https://github-readme-streak-stats.vercel.app/?user=JiaXinTang-xiang&theme=dracula" alt="GitHub Streak" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=JiaXinTang-xiang&theme=dracula" alt="GitHub Activity Graph" />
-
 ---
 
 ### 📫 Connect With Me
